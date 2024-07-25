@@ -1,0 +1,224 @@
+.hero-section {
+  padding-top: 320px;
+  padding-bottom: 296px;
+}
+
+.hero-container {
+  position: relative;
+}
+
+.hero-text {
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--white-color);
+  font-family: Oswald;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: -0.02;
+  text-align: center;
+}
+
+.hero-decorative-img {
+  position: absolute;
+  display: block;
+}
+
+.cloud-01 {
+  top: -174px;
+  left: 63px;
+  width: 83px;
+  height: 45px;
+}
+
+.cloud-02 {
+  top: -214px;
+  left: -223px;
+  width: 184px;
+  height: 98px;
+}
+
+.cloud-03 {
+  top: -98px;
+  left: 4px;
+  width: 77px;
+  height: 41px;
+}
+
+.cloud-04 {
+  top: -137px;
+  left: -121px;
+  width: 232px;
+  height: 124px;
+}
+
+.cloud-05 {
+  top: -111px;
+  left: 58px;
+  width: 40px;
+  height: 21px;
+}
+
+.cloud-06 {
+  top: -146px;
+  left: -18px;
+  width: 132px;
+  height: 71px;
+}
+
+.cloud-07 {
+  top: -299px;
+  left: -497px;
+  width: 442px;
+  max-width: 442px;
+  height: 237px;
+}
+
+.cloud-08 {
+  top: -266px;
+  left: -171px;
+  width: 442px;
+  max-width: 442px;
+  height: 237px;
+}
+
+.hero-decorative-img.flagstone {
+  top: -258px;
+  left: 88px;
+  width: 109px;
+  height: 115px;
+}
+
+.hero-decorative-img.ship-left {
+  top: -143px;
+  left: -50px;
+  width: 89px;
+  height: 86px;
+}
+
+.hero-decorative-img.ship-right {
+  top: -163px;
+  left: 18px;
+  width: 61px;
+  height: 59px;
+}
+
+.hero-decorative-img.silpo {
+  top: -105px;
+  left: 31px;
+  width: 178px;
+  height: 84px;
+}
+
+.hero-decorative-img.about-me {
+  top: -128px;
+  left: 179px;
+  width: 181px;
+  height: 130px;
+  transform: rotate(-1.23deg);
+}
+
+@media screen and (min-width: 1440px) {
+  .hero-section {
+    padding-top: 448px;
+    padding-bottom: 259px;
+  }
+
+  .hero-text {
+    width: 512px;
+    font-size: 20px;
+  }
+
+  .cloud-01 {
+    top: -302px;
+    left: 217px;
+    width: 108px;
+    height: 58px;
+  }
+
+  .cloud-02 {
+    top: -321px;
+    left: -206px;
+    width: 238px;
+    height: 128px;
+  }
+
+  .cloud-03 {
+    top: -162px;
+    left: 85px;
+    width: 100px;
+    height: 53px;
+  }
+
+  .cloud-04 {
+    top: -213px;
+    left: -77.5px;
+    width: 300px;
+    height: 161px;
+  }
+
+  .cloud-05 {
+    top: -178px;
+    left: 155px;
+    width: 52px;
+    height: 28px;
+  }
+
+  .cloud-06 {
+    top: -224px;
+    left: 57px;
+    width: 170px;
+    height: 91px;
+  }
+
+  .cloud-07 {
+    top: -465px;
+    left: -508px;
+    width: 572px;
+    max-width: 572px;
+    height: 306px;
+  }
+
+  .cloud-08 {
+    top: -422px;
+    left: -87px;
+    width: 572px;
+    max-width: 572px;
+    height: 306px;
+  }
+
+  .hero-decorative-img.flagstone {
+    top: -411px;
+    left: 249px;
+    width: 141px;
+    height: 148px;
+  }
+
+  .hero-decorative-img.ship-left {
+    top: -220px;
+    left: -15px;
+    width: 115px;
+    height: 111px;
+  }
+
+  .hero-decorative-img.ship-right {
+    top: -246px;
+    left: 103px;
+    width: 79px;
+    height: 76px;
+  }
+
+  .hero-decorative-img.silpo {
+    top: -235px;
+    left: 268px;
+    width: 383px;
+    height: 182px;
+  }
+
+  .hero-decorative-img.about-me {
+    top: -284px;
+    left: 586px;
+    width: 390px;
+    height: 279px;
+  }
+}
