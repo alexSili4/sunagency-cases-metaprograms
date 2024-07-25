@@ -24,49 +24,49 @@
   display: block;
 }
 
-.cloud-01 {
+.hero-decorative-img.cloud-01 {
   top: -174px;
   left: 63px;
   width: 83px;
   height: 45px;
 }
 
-.cloud-02 {
+.hero-decorative-img.cloud-02 {
   top: -214px;
   left: -223px;
   width: 184px;
   height: 98px;
 }
 
-.cloud-03 {
+.hero-decorative-img.cloud-03 {
   top: -98px;
   left: 4px;
   width: 77px;
   height: 41px;
 }
 
-.cloud-04 {
+.hero-decorative-img.cloud-04 {
   top: -137px;
   left: -121px;
   width: 232px;
   height: 124px;
 }
 
-.cloud-05 {
+.hero-decorative-img.cloud-05 {
   top: -111px;
   left: 58px;
   width: 40px;
   height: 21px;
 }
 
-.cloud-06 {
+.hero-decorative-img.cloud-06 {
   top: -146px;
   left: -18px;
   width: 132px;
   height: 71px;
 }
 
-.cloud-07 {
+.hero-decorative-img.cloud-07 {
   top: -299px;
   left: -497px;
   width: 442px;
@@ -74,7 +74,7 @@
   height: 237px;
 }
 
-.cloud-08 {
+.hero-decorative-img.cloud-08 {
   top: -266px;
   left: -171px;
   width: 442px;
@@ -118,6 +118,90 @@
   transform: rotate(-1.23deg);
 }
 
+.hero-decorative-img.cloud-09 {
+  top: 323px;
+  left: 321px;
+  width: 128px;
+  height: 69px;
+}
+
+.hero-decorative-img.cloud-10 {
+  top: 251px;
+  left: 150px;
+  width: 479px;
+  height: 256px;
+}
+
+.hero-decorative-img.woman {
+  top: 192px;
+  left: 301px;
+  width: 73px;
+  height: 174px;
+}
+
+.hero-decorative-img.cloud-11 {
+  top: 369px;
+  left: 173px;
+  width: 63px;
+  height: 34px;
+}
+
+.hero-decorative-img.cloud-12 {
+  top: 329px;
+  left: 129px;
+  width: 192px;
+  height: 103px;
+}
+
+.hero-decorative-img.bird {
+  top: 300px;
+  left: 171px;
+  width: 94px;
+  height: 80px;
+}
+
+.hero-decorative-img.cloud-14 {
+  top: 246px;
+  left: 57px;
+  width: 68px;
+  height: 36px;
+}
+
+.hero-decorative-img.man {
+  top: 222px;
+  left: 9px;
+  width: 96px;
+  height: 114px;
+}
+
+.hero-decorative-img.bird-left-bottom {
+  top: 251px;
+  left: 9px;
+  width: 15px;
+  height: 4px;
+}
+
+.hero-decorative-img.bird-left-top {
+  top: 232px;
+  left: 8px;
+  width: 11px;
+  height: 4px;
+}
+
+.hero-decorative-img.bird-right-center {
+  top: 263px;
+  left: 229px;
+  width: 21px;
+  height: 6px;
+}
+
+.hero-decorative-img.bird-right-top {
+  top: 241px;
+  left: 211px;
+  width: 14px;
+  height: 6px;
+}
+
 @media screen and (min-width: 1440px) {
   .hero-section {
     padding-top: 448px;
@@ -129,49 +213,49 @@
     font-size: 20px;
   }
 
-  .cloud-01 {
+  .hero-decorative-img.cloud-01 {
     top: -302px;
     left: 217px;
     width: 108px;
     height: 58px;
   }
 
-  .cloud-02 {
+  .hero-decorative-img.cloud-02 {
     top: -321px;
     left: -206px;
     width: 238px;
     height: 128px;
   }
 
-  .cloud-03 {
+  .hero-decorative-img.cloud-03 {
     top: -162px;
     left: 85px;
     width: 100px;
     height: 53px;
   }
 
-  .cloud-04 {
+  .hero-decorative-img.cloud-04 {
     top: -213px;
     left: -77.5px;
     width: 300px;
     height: 161px;
   }
 
-  .cloud-05 {
+  .hero-decorative-img.cloud-05 {
     top: -178px;
     left: 155px;
     width: 52px;
     height: 28px;
   }
 
-  .cloud-06 {
+  .hero-decorative-img.cloud-06 {
     top: -224px;
     left: 57px;
     width: 170px;
     height: 91px;
   }
 
-  .cloud-07 {
+  .hero-decorative-img.cloud-07 {
     top: -465px;
     left: -508px;
     width: 572px;
@@ -179,7 +263,7 @@
     height: 306px;
   }
 
-  .cloud-08 {
+  .hero-decorative-img.cloud-08 {
     top: -422px;
     left: -87px;
     width: 572px;
@@ -220,5 +304,113 @@
     left: 586px;
     width: 390px;
     height: 279px;
+  }
+
+  .hero-decorative-img.cloud-09 {
+    top: -143px;
+    left: 1142px;
+    width: 181px;
+    height: 97px;
+  }
+
+  .hero-decorative-img.cloud-10 {
+    top: -244px;
+    left: 901px;
+    width: 674px;
+    height: 361px;
+  }
+
+  .hero-decorative-img.woman {
+    top: -327px;
+    left: 1114px;
+    width: 103px;
+    height: 244px;
+  }
+
+  .hero-decorative-img.cloud-11 {
+    top: 118px;
+    left: 1003px;
+    width: 112px;
+    height: 60px;
+  }
+
+  .hero-decorative-img.cloud-12 {
+    top: 47px;
+    left: 925px;
+    width: 338px;
+    height: 181px;
+  }
+
+  .hero-decorative-img.bird {
+    top: -4px;
+    left: 999px;
+    width: 166px;
+    height: 141px;
+  }
+
+  .hero-decorative-img.cloud-13 {
+    top: -391px;
+    left: 889px;
+    width: 173px;
+    height: 92px;
+  }
+
+  .hero-decorative-img.cloud-14 {
+    top: 66px;
+    left: 160px;
+    width: 146px;
+    height: 78px;
+  }
+
+  .hero-decorative-img.man {
+    top: 15px;
+    left: 57px;
+    width: 206px;
+    height: 245px;
+  }
+
+  .hero-decorative-img.bird-left-bottom {
+    top: 76px;
+    left: 57px;
+    width: 32px;
+    height: 10px;
+  }
+
+  .hero-decorative-img.bird-left-top {
+    top: 35px;
+    left: 21px;
+    width: 23px;
+    height: 10px;
+  }
+
+  .hero-decorative-img.bird-right-bottom {
+    top: -134px;
+    left: 987px;
+    width: 30px;
+    height: 10px;
+  }
+
+  .hero-decorative-img.bird-right-center {
+    top: -228px;
+    left: 1012px;
+    width: 29px;
+    height: 9px;
+  }
+
+  .hero-decorative-img.bird-right-top {
+    top: -259px;
+    left: 987px;
+    width: 20px;
+    height: 8px;
+  }
+}
+
+@media screen and (max-width: 1439px) {
+  .hero-decorative-img.cloud-13 {
+    display: none;
+  }
+
+  .hero-decorative-img.bird-right-bottom {
+    display: none;
   }
 }
