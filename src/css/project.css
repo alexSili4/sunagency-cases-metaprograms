@@ -1,0 +1,46 @@
+.project-screenshots-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 11px;
+  overflow: hidden;
+}
+
+.project-screenshots-list-item {
+  flex-shrink: 0;
+}
+
+.project-screenshot-img {
+  width: 334px;
+  height: 220px;
+}
+
+.characters-example-img {
+  width: 334px;
+  height: 220px;
+  margin-top: 555px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (min-width: 1440px) {
+  .project-screenshots-list {
+    gap: 95px;
+  }
+
+  .project-screenshot-img {
+    width: 840px;
+    height: 553px;
+  }
+
+  .project-screenshot-img.main {
+    width: 933px;
+    height: 614px;
+  }
+
+  .characters-example-img {
+    width: 1140px;
+    height: 751px;
+    margin-top: 372px;
+  }
+}

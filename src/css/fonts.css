@@ -3,3 +3,9 @@
   src: local('Oswald'), url('/fonts/oswald/Oswald-Light.ttf') format('truetype');
   font-weight: 300;
 }
+
+@font-face {
+  font-family: 'Amatic SC';
+  src: local('Amatic SC'), url('/fonts/amatic-sc/AmaticSC-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
