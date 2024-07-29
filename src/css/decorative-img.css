@@ -1,0 +1,21 @@
+.decorative-img-section {
+  padding-bottom: 35px;
+}
+
+.decorative-img-img {
+  width: 400px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (min-width: 1440px) {
+  .decorative-img-section {
+    padding-bottom: 131px;
+  }
+
+  .decorative-img-img {
+    width: 1657px;
+    max-width: 1657px;
+  }
+}
