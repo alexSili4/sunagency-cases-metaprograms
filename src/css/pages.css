@@ -1,0 +1,47 @@
+.pages-section {
+  padding-bottom: 60px;
+}
+
+.pages-section-title {
+  color: #4f4f4f;
+  font-family: Amatic SC;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: -0.02;
+  text-align: center;
+}
+
+.pages-slider {
+  margin-top: 20px;
+}
+
+.swiper-slide.pages-slider-slide {
+  width: 216px;
+  height: 142px;
+}
+
+@media screen and (min-width: 1440px) {
+  .pages-section {
+    padding-bottom: 206px;
+  }
+
+  .pages-section-title {
+    font-size: 52px;
+  }
+
+  .pages-slider {
+    margin-top: 80px;
+  }
+
+  .swiper-slide.pages-slider-slide {
+    width: 652px;
+    height: 424px;
+  }
+}
+
+@media screen and (min-width: 4152px) {
+  .swiper-wrapper.pages-slider-wrapper {
+    justify-content: center;
+  }
+}
