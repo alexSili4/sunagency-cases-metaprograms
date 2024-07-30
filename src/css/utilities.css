@@ -1,6 +1,9 @@
 body {
   background-image: linear-gradient(180deg, rgb(103, 176, 217), rgb(192, 232, 255) 100%);
-  overflow-x: hidden;
+}
+
+main {
+  overflow: hidden;
 }
 
 h1,

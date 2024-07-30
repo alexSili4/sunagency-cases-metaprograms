@@ -4,6 +4,12 @@
   justify-content: center;
   width: 100vw;
   height: 100vh;
+  background-color: var(--white-color);
+  background-image: url('/icons/project-page/bird-right.svg'), url('/icons/project-page/bird-left.svg'), url('/images/project-page/cloud-mobile-left.png'),
+    url('/images/project-page/cloud-mobile-right.png');
+  background-size: 29px 9px, 30px 10px, 915px 490px, 915px 490px;
+  background-position: top 123px left calc(50% + 123px), top 123px left calc(50% - 122px), top 19px left calc(50% - 226px), bottom -67px left calc(50% + 232px);
+  background-repeat: no-repeat;
 }
 
 .project-page-link {
@@ -24,6 +30,13 @@
 }
 
 @media screen and (min-width: 1440px) {
+  .project-page-section {
+    background-image: url('/icons/project-page/bird-right.svg'), url('/icons/project-page/bird-left.svg'), url('/images/project-page/cloud-desk-left.png'),
+      url('/images/project-page/cloud-desk-right.png');
+    background-size: 29px 9px, 30px 10px, 915px 490px, 915px 490px;
+    background-position: bottom 230px left calc(50% + 455px), bottom 188px left calc(50% + 209px), bottom -48px left calc(50% - 662px), top 125px left calc(50% + 469px);
+  }
+
   .project-page-link {
     width: 389px;
     background-size: 389px 90px;

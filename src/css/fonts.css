@@ -9,3 +9,9 @@
   src: local('Amatic SC'), url('/fonts/amatic-sc/AmaticSC-Bold.ttf') format('truetype');
   font-weight: 700;
 }
+
+@font-face {
+  font-family: 'Circe';
+  src: local('Circe'), url('/fonts/circe/Circe-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
